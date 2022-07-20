@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashobh</h1>
 <h3 align="center">Student at IIITN</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashobh4657&label=Profile%20views&color=0e75b6&style=flat" alt="prashobh4657" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/prashobh" target="blank"><img src="https://img.shields.io/twitter/follow/prashobh?logo=twitter&style=for-the-badge" alt="prashobh" /></a> </p>
-
 - 🌱 I’m currently learning **DSA**
-
 - 📫 How to reach me **prashobh4657@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
