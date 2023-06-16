@@ -2,7 +2,7 @@
 <h3 align="center">Student at IIITN</h3>
 
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I am Prashobh, 3rd year Computer Science and Engineering undergrad at IIIT Nagpur. I am a Competitive Programmer and like to solve problems and building applications. Always looking forward to learning new skills and giving my best in every aspect. I am eager to contribute my skills and knowledge to meaningful projects and collaborations in the future.
 
 - 📫 How to reach me **prashobh4657@gmail.com**
 
