@@ -18,9 +18,11 @@
   <a href="https://www.linkedin.com/in/prashobh-k-a91292155/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ &nbsp;&nbsp;&nbsp; 
   <a href="mailto:prashobh4657@gmail.com">
     <img src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
     <img src="https://komarev.com/ghpvc/?username=prashobh4657&style=flat-square&color=green" alt="prashobh4657" />
 </div>
 <h3 align="left">Coding Profiles</h3>
