@@ -28,12 +28,12 @@
 <h3 align="left">Coding Profiles</h3>
 
 <p align="left">
-<a href="https://www.codechef.com/users/prashobh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prashobh" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/@prashobh4657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prashobh4657" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/prashobh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prashobh" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/prashobh12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashobh12" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.hackerearth.com/@prashobh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@prashobh" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/prashobh4657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prashobh4657" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/prashobh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prashobh" height="50" width="60" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/@prashobh4657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prashobh4657" height="50" width="60" /></a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/prashobh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prashobh" height="50" width="60" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/prashobh12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashobh12" height="50" width="60" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerearth.com/@prashobh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@prashobh" height="50" width="60" /></a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/prashobh4657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prashobh4657" height="50" width="60" /></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
