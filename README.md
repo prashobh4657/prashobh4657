@@ -21,10 +21,9 @@
   <a href="mailto:prashobh4657@gmail.com">
     <img src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <img src="https://komarev.com/ghpvc/?username=prashobh4657&style=flat-square&color=green" alt="prashobh4657" />
 </div>
-<div id="badges" align="center">
-   <img src="https://komarev.com/ghpvc/?username=prashobh4657&style=flat-square&color=green" alt="prashobh4657" />
-</div>
+<h3 align="left">Coding Profiles</h3>
 
 <p align="left">
 <a href="https://www.codechef.com/users/prashobh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prashobh" height="30" width="40" /></a>
