@@ -16,7 +16,7 @@
 
 <div id="badges" >
   <a href="https://www.linkedin.com/in/prashobh-k-a91292155/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ width="100" height="100">
   </a>
  &nbsp;&nbsp;&nbsp; 
   <a href="mailto:prashobh4657@gmail.com">
