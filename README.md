@@ -20,7 +20,7 @@
   </a>
  &nbsp;&nbsp;&nbsp; 
   <a href="mailto:prashobh4657@gmail.com">
-    <img src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/ width="200" height="50">
   </a>
   &nbsp;&nbsp;&nbsp;
     <img src="https://komarev.com/ghpvc/?username=prashobh4657&style=flat-square&color=green" alt="prashobh4657" />
