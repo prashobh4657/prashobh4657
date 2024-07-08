@@ -6,11 +6,11 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashobh4657&label=Profile%20views&color=0e75b6&style=flat" alt="prashobh4657" /> </p>
  -->
-- 👨‍💻 All of my projects are available at [https://github.com/prashobh4657](https://github.com/prashobh4657)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/prashobh4657)
 
 - 📫 How to reach me **prashobh4657@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/19cm3PTeiMrcmOBOKM4_2RCc5mE40_yV4](https://drive.google.com/drive/folders/19cm3PTeiMrcmOBOKM4_2RCc5mE40_yV4)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/19cm3PTeiMrcmOBOKM4_2RCc5mE40_yV4)
 
 <h3 align="left">Connect with me:</h3>
 
