@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div id="badges" align="center">
+<div id="badges" >
   <a href="https://www.linkedin.com/in/prashobh-k-a91292155/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
